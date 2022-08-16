@@ -1,0 +1,5 @@
+﻿  game.c
+D:\preject\Project3\game.c(83,7): warning C4013: “flags”未定义；假设外部返回 int
+D:\preject\Project3\game.c(93,12): warning C4013: “count”未定义；假设外部返回 int
+D:\preject\Project3\game.c(148): warning C4715: “flags”: 不是所有的控件路径都返回值
+  Project3.vcxproj -> D:\preject\Project3\x64\Debug\Project3.exe
